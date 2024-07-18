@@ -34,3 +34,8 @@ $Carga de Datos:$
 
 - La clase QueryRepository se utiliza para recuperar los datos de los conductores y sus puntos máximos.
 Los datos se añaden al ObservableList que está enlazado a la TableView.
+
+# Ejecución del código
+
+![3](https://github.com/user-attachments/assets/99b71896-6f03-48fd-9180-6258b8a33c9d)
+
